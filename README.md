@@ -13,10 +13,10 @@ Password: 0000
 
 ## Screenshots (Watch the example videos below.)
 ### Login page
-![Login page](https://heunsig-portfolio.s3.ca-central-1.amazonaws.com/web-management/modified_01.png)
+![Login page](https://heunsig-portfolio.s3.ca-central-1.amazonaws.com/web-management/modified_02.png)
 
 ### Dashboard
-![Dashboard](https://heunsig-portfolio.s3.ca-central-1.amazonaws.com/web-management/modified_02.png)
+![Dashboard](https://heunsig-portfolio.s3.ca-central-1.amazonaws.com/web-management/modified_01.png)
 
 ## Example vidoes
 * [Login and Logout Administrative page](https://youtu.be/nX-EUqmqFoY)  
