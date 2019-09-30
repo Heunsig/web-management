@@ -11,6 +11,13 @@ It provides many functions besides functions shown in the example video section.
 ID: admin  
 Password: 0000  
 
+## Screenshots (Watch the example videos below.)
+### Login page
+![Login page](https://heunsig-portfolio.s3.ca-central-1.amazonaws.com/web-management/modified_01.png)
+
+### Dashboard
+![Dashboard](https://heunsig-portfolio.s3.ca-central-1.amazonaws.com/web-management/modified_02.png)
+
 ## Example vidoes
 * [Login and Logout Administrative page](https://youtu.be/nX-EUqmqFoY)  
 * [Adding New Image](https://youtu.be/Px_f7_qu91Y)  
